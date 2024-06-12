@@ -1,3 +1,11 @@
+
+// this is a single line comment
+
+/* 
+multi line comment
+second line of multi line comment
+*/
+
 console.log(100);
 
 console.log("Hello World");
